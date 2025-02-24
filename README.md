@@ -1,6 +1,6 @@
 # Hi there, I'm Athish SB! 👋
 
-### 🚀 Full Stack Developer | MERN Stack Enthusiast | Open Source Contributor
+### 🚀 Full Stack Developer | MERN Stack Enthusiast | Passionate Coder
 
 Passionate about building **scalable web applications** and crafting **clean, efficient code**. I specialize in **MERN stack development**, state management with **Redux**, and API design. Always learning, always improving! ✨
 
@@ -8,51 +8,37 @@ Passionate about building **scalable web applications** and crafting **clean, ef
 
 ### 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+#### **Frontend**
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 
----
+#### **Backend**
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
 
-### 📌 Featured Projects
+#### **Databases**
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-#### 🚀 TaskManager
-A **task management system** to create, update, delete, and track tasks efficiently.
-- ✅ User authentication (sign-up, login, password reset)
-- ✅ Task categorization (To-Do, In Progress, Completed)
-- ✅ Task search, filtering, pagination, and notifications
+#### **Cloud Services**
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Render](https://img.shields.io/badge/Render-161B22?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-4479A1?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 
-#### 🍔 BurgerHub
-A **food ordering application** with user and admin functionalities.
-- ✅ User authentication, cart management, order placement
-- ✅ Admin dashboard to manage products, users, and orders
-- ✅ Razorpay payment gateway integration
+#### **Styling & UI Frameworks**
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-#### 💬 ChatNow
-A **real-time chat application** with one-to-one messaging features.
-- ✅ Secure authentication and real-time messaging via Socket.io
-- ✅ Online status tracking, unread message count, and notifications
-- ✅ Image sharing and emoji support
-
-#### 📝 BlogSphere
-A **blogging platform** where users can explore, interact, and manage content.
-- ✅ User authentication (JWT & Firebase OAuth)
-- ✅ Like and comment system with edit/delete options
-- ✅ Dark mode and responsive UI
-
-#### 💰 ExpenseMate
-A **personal finance management app** for tracking expenses and income.
-- ✅ Authentication and category-wise transaction tracking
-- ✅ Data visualization using Chart.js for spending analysis
-- ✅ CRUD operations for transactions and categories
+#### **Tools & Version Control**
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
