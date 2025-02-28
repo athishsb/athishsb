@@ -44,7 +44,7 @@ Passionate about building **scalable web applications** and crafting **clean, ef
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athish-csf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athish-sb)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6C37?style=for-the-badge&logo=web&logoColor=white)](https://athishsb.netlify.app)
 
 💡 _Passionate about coding, collaboration, and continuous learning!_ 😃
